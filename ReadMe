@@ -1,4 +1,4 @@
-Diese Dateien beinhalten eine eingerichtete Virtuelle Umgebung (virtual environment) für den ILIAS-Testgenerator.
+Diese Dateien beinhalten eine eingerichtete virtuelle Umgebung (virtual environment) für den ILIAS-Testgenerator.
 In dieser virtuellen Umgebung sind alle notwendigen Bibliotheken für die Verwenung enthalten.
 
 Die entpackte Größe beträgt etwa ~700MB
